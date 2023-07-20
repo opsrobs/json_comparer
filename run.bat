@@ -1,0 +1,1 @@
+python3 compare_json_files.py
